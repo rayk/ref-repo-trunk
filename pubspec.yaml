@@ -1,0 +1,16 @@
+name: ref_rep_trunk_app
+version: 0.1.0
+description: Simple CLI referenence application.
+
+executable:
+  trunkApp: main
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
+dependencies:
+  args: ^2.0.0
+  dcli: ^0.51.5
+
+dev_dependencies:
+  test: ^1.16.8
