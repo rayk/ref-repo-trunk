@@ -13,3 +13,10 @@ usage patterns. Here [trunk based](https://trunkbaseddevelopment.com/) usage pat
 
 Uniquely identifiable repository artefacts and structures, that would suggest that users of a given repository are
 employing some form of trunk based development strategy.
+
+1. All commits trunk.
+2. Release from trunk or a release branch.
+
+## Sample Application
+
+This repository contains simple CLI application.
